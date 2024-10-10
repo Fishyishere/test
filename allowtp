@@ -1,0 +1,8 @@
+{
+  "StrangeSoldier": {
+  "access": true
+  },
+  "example": {
+  "access": false
+  }
+}
